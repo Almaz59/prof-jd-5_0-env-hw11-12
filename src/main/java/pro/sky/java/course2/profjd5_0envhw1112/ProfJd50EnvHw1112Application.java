@@ -9,5 +9,4 @@ public class ProfJd50EnvHw1112Application {
     public static void main(String[] args) {
         SpringApplication.run(ProfJd50EnvHw1112Application.class, args);
     }
-
 }
